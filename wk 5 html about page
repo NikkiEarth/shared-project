@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> About Us </title>
+<!-- this is the About Us page  html. We will be posting the pictures of us both here. the pictures will be linked and we can use hover css
+ to make it increase in size significantly so people can see it better and if they click the link takes them to where they can open the <picture>
+   on a full tab. </picture>-->
+
+
+   </head>
+   <body>
+<h1> About Us </h1>
+<p> Welcome to our lovely lifestyle website where we share our love of lifestyles from freshly baked goods to recreational photography.
+We are team Beautiful Brains and we came up with our lovely lifestyles website together based on our shared interests of photography and baking.
+
+This website can help inform and share ideas on having a healthy yet hearty lifestyle.
+Here we have recipes and photos that we feel passionate about that show our shared hobbies.
+We also have photography ideas and initiatives to share and promote healthy lifestyles, as well as healthy eating and well-being.
+We are all about different forms of artistry whether it be baking or taking photos. Or even a combination of the two.
+So please enjoy our website, view our photos and baking and most importantly have fun! </p>
+
+</body>
+</html>
