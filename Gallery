@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Gallery</title>
+<!-- this is the gallery html. We will be posting the pictures we select here. the pictures will be linked and we can use hover css
+ to make it increase in size significantly so people can see it better and if they click the link takes them to where they can open the <picture>
+   on a full tab. </picture>-->
+
+</head>
+<body>
+
+<h1> Capturing Leeds Beautiful Summers </h1>
+<p> Our pictures of landscapes boast a collection of natural landscapes that depict Leeds at its finest.
+ They capture the hidden parts of Leeds that are often unexplored. From the flowers, to bridges, lakes, trees and nature parks.</p>
+
+<p> This purple flower shows great features of photography as it shows great depth of field, as well as variety of tone and texture.</p>
+
+<p> The Leeds bridge showcases the beautiful view of part of the city that many do not even see, depicting light being refracted upon the water. </p>
+
+<p> A skyline of Leeds is shown looking quite rustic and shows he surrounding buildings, part of the Leeds infrastructure. </p>
+
+<p> A white flower depicts the blossoming flowers in spring and changing seasons. </p>
+
+<p> This yellow rose depicts macro-photography, using deep hues of contrasting yellow.</p>
+
+<p> Ducks gliding across the pond in the summer weather.</p>
+
+<p> These are photos of sky betting and gaming where we are presently studying coding. </p>    
+
+</body>
+</html>
