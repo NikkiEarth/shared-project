@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Baking 101</title>
+<!-- this is the gallery html. We will be posting the pictures we select here. the pictures will be linked and we can use hover css
+ to make it increase in size significantly so people can see it better and if they click the link takes them to where they can open the <picture>
+   on a full tab. </picture>-->
+
+</head>
+<body>
+
+<h1> Easy Bake Recipes: Pancakes </h1>
+<p> American Style Buttermilk Pancakes Recipe:
+
+    100g plain flour
+    2tsp baking powder
+    1/2 tsp bicarbonate of soda
+    1tbsp golden caster sugar
+    2 large eggs, separated
+    284ml Buttermilk
+    25g butter, melted and extra butter
+
+    First sift the flour, baking powder, bicarbonate of soda, sugar and a pinch of salt into a bowl.
+    Whisk the egg whites until stiff peaks form. Then mix the yolks, buttermilk and melted butter and whisk in the flour mix until batter thickens.
+    Then fold the egg whites into the batter until evenly mixed.
+    Then heat a large frying pan and add melted butter. Place 3 large spoons of batter into the pan to make 10cm diameter pancakes. When bubbles appear after 3 minutes flip the
+    pancakes over and cook until browned. Then top with syrup, raspberries and berries. </p>
+
+  <h1> Easy Bake Recipes: Vanilla Cake Recipe:  <h1>
+
+<p> 200g caster sugar
+    200g softened butter
+    4 eggs, beaten
+    200g self-raising flour
+    1 tsp baking powder
+    2 tbsp milk,
+    Vanilla Essence, 5 drops
+
+    Heat oven to 190C/fan 170C/gas 5. Butter a 20cm sandwich tin and line with non-stick baking paper.
+    In a large bowl, beat 200g caster sugar, vanilla essence, 200g softened butter, 4 beaten eggs, 200g self-raising flour, 1 tsp baking powder
+    and 2 tbsp milk together until you have a smooth, soft batter. Add the mixture in the tin, smooth the surface with a
+    spatula or the back of a spoon. Bake for about 20 mins until golden and the cake springs back when pressed. Turn onto a cooling
+    rack and leave to cool completely. Then decorate with icing and cherries. </p>
+
+
+</body>
+</html>

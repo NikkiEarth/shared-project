@@ -1,0 +1,168 @@
+/*
+* Background Images for the two secondary bakery pages.
+*/
+#vanilla-cake {
+background-image: url("../photos/vanilla-cake.jpg");
+background-size: 75%;
+
+}
+
+#pancake {
+background-image: url("../photos/pancakes.jpg");
+background-size: cover;
+background-position: center;
+width: 100%;
+height: 100%;
+
+}
+
+/*
+ * Header
+ */
+.mastfoot {
+  color: rgba(255, 255, 255, .5);
+
+}
+/* Custom default button */
+.btn-secondary,
+.btn-secondary:hover,
+.btn-secondary:focus {
+  color: #333;
+  text-shadow: none; /* Prevent inheritance from `body` */
+  background-color: #fff;
+  border: .05rem solid #fff;
+}
+
+.list-unstyled {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  text-align: right;
+
+}
+
+/*
+* Creating the bottom contact bar.
+*/
+.text-white {
+  margin-left: 850px;
+}
+
+.list-unstyled{
+  margin-left: 1000px;
+}
+
+.nav-link {
+  background-color: darkgreen;
+  opacity: 0.8;
+  border-radius: 160em;
+  border: 20px solid rgba( 255, 255, 255, 1);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin-top: 200px;
+}
+
+.nav-link:hover {
+  background: lightgreen;
+  color: darkgreen;
+}
+
+#back-to-top {
+  color: black
+  font-weight: 400px;
+  display: flex;
+  flex-direction: column;
+  align-items: baseline;
+
+}
+
+/* Vanilla Cake specific  CSS */
+.recipe-vc {
+   background-color: #CC9B65;
+   width: 490px;
+   border: solid 5px black;
+   border-radius: 25px;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   /* flex-wrap: wrap; */
+   margin: 40px;
+   padding: 10px;
+}
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px grey;
+  border-radius: 10px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: gray;
+  border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: lightgray;
+}
+
+.method-vc {
+  width: 400px;
+  height: 400px;
+
+}
+
+  /* Pancake specific  CSS */
+  .recipe-p {
+     background-color:rgba(232, 232, 232, 1);
+     width: 500px;
+     border-radius: 25px;
+     display: flex;
+     flex-direction: column;
+     justify-content: justify;
+     flex-wrap: wrap;
+     margin: 40px;
+     padding: 10px;
+     overflow-y: scroll;
+
+  }
+
+  /* width */
+  ::-webkit-scrollbar {
+    width: 10px;
+  }
+
+  /* Track */
+  ::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px grey;
+    border-radius: 10px;
+  }
+
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #f5dc87;
+    border-radius: 10px;
+  }
+
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #e08a1e;
+  }
+
+  .rainbowtingz {
+    color: rgb(172, 34, 51);
+   /* background-image: linear-gradient(to left, #f4d03f, #fad859, #f5d0a4, #ff43a4, #f0debc, #cd5b45, #e30b5d, #b3446c);   -webkit-background-clip: text;
+   color: transparent; */
+ }
+
+  .method-p {
+    width: 400px;
+    height: 400px;
+
+  }

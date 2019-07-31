@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> About Us Page  </title>
+<!-- this is the About Us information page  html. We will be posting the pictures of us both here. the pictures will be linked and we can use hover css
+ to make it increase in size significantly so people can see it better and if they click the link takes them to where they can open the <picture>
+   on a full tab. </picture>-->
+ <img src="images/Me.jpg">
+
+   </head>
+   <body>
+<h1> About Us: The Founders of Beautiful Brains </h1>
+
+<p> Here is our get to know us page, where you can find out more about us here at beautiful brains.
+    I'm Nikita a recent graduate of biomedical science and Piriye is currently a student of chemical engineering, studying at Leeds University.
+    We are 22 and 20 years of age and are both learning web development, as a new skill. Using these new skills we have made this wesite to showcase
+    our shared lifestyle interests and passions such as photography and baking.
+    From a very young age food has been central to both our different cultures, from this came our enthusiasm for food.
+    Baking is a fun activity that helps to relieve stress as well as taking photos outdoors which has also been shown to improve well being.
+    As well as showcasing the beauty of nature and its surroundings.Our website is here to help share our hobbies in our lives that help promote healthy living. </p>
+
+</body>
+</html>
