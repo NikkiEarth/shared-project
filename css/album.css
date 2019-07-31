@@ -1,0 +1,70 @@
+:root {
+  --jumbotron-padding-y: 3rem;
+}
+
+.jumbotron {
+  padding-top: var(--jumbotron-padding-y);
+  padding-bottom: var(--jumbotron-padding-y);
+  margin-bottom: 0;
+  background-color: #fff;
+}
+@media (min-width: 768px) {
+  .jumbotron {
+    padding-top: calc(var(--jumbotron-padding-y) * 2);
+    padding-bottom: calc(var(--jumbotron-padding-y) * 2);
+  }
+}
+
+.jumbotron p:last-child {
+  margin-bottom: 0;
+}
+
+.jumbotron-heading {
+  font-weight: 300;
+}
+
+.jumbotron .container {
+  max-width: 40rem;
+}
+
+/*
+* Flexing and Spacing- atm just end link-backs and social links.
+*/
+.nav-link {
+  background-color: darkgreen;
+  opacity: 0.8;
+  border-radius: 160em;
+  border: 20px solid white;
+  display: flex;
+  justify-content: center;
+}
+
+.nav-link:hover {
+  background: lightgreen;
+  color: darkgreen;
+}
+
+.list-unstyled {
+  display: flex;
+  flex-direction: row;
+  /* justify-content: space-between; */
+}
+
+#border {
+   border: solid rgba(0, 0, 0, 0) 10px;
+}
+
+h1 {
+  color: purple;
+  font-weight: 900;
+}
+footer {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+footer p {
+  margin-bottom: .25rem;
+}
+
+.box-shadow { box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05); }
